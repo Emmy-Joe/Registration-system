@@ -22,7 +22,7 @@
 </head>
 <body>
     
-<h2>Login System</h2> <br>
+<h2>Login Page</h2> <br>
 <form action="login_pro.php" method="post">
 
     <!--show the error message-->

@@ -24,7 +24,7 @@ unset($_SESSION['registration-data']);
 </head>
 <body>
     
-<h2>Registraion System</h2> <br>
+<h2>Registraion Page</h2> <br>
 <form action="reg_pro.php" method="post">
     <!--display the error message-->
     <?php if(isset($_SESSION['register_error']))  : ?>
